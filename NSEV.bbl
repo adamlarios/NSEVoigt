@@ -1,0 +1,163 @@
+\def\cprime{$'$}
+\begin{thebibliography}{10}
+
+\bibitem{Baker}
+G.~Baker.
+\newblock Galerkin approximations for the {Navier-Stokes} equations.
+\newblock Harvard University, August 1976.
+
+\bibitem{Cao_Lunasin_Titi_2006}
+Y.~Cao, E.~Lunasin, and E.~S. Titi.
+\newblock Global well-posedness of the three-dimensional viscous and inviscid
+  simplified {B}ardina turbulence models.
+\newblock {\em Commun. Math. Sci.}, 4(4):823--848, 2006.
+
+\bibitem{CELR10}
+M.~Case, V.~Ervin, A.~Linke, and L.~Rebholz.
+\newblock {Improving mass conservation in FE approximations of the Navier
+  Stokes equations using $C^0$ velocity fields: A connection between grad-div
+  stabilization and Scott-Vogelius elements}.
+\newblock {\em SIAM Journal on Numerical Analysis}, 49(4):1461--1481, 2011.
+
+\bibitem{CLRW10}
+M.~Case, A.~Labovsky, L.~Rebholz, and N.~Wilson.
+\newblock A high physical accuracy method for incompressible
+  magnetohydrodynamics.
+\newblock {\em International Journal on Numerical Analysis and Modeling, Series
+  B}, 1(2):219--238, 2010.
+
+\bibitem{CS06}
+R.~Codina and N.~Silva.
+\newblock Stabilized finite element approximation to the stationary
+  magnetohydrodynamics equations.
+\newblock {\em Computational Mechanics}, 194:334--355, 2006.
+
+\bibitem{D01}
+P.~Davidson.
+\newblock {\em An Introduction to Magnetohydrodynamics}.
+\newblock Cambridge, 2001.
+
+\bibitem{FGM97}
+H.~Friedel, R.~Grauer, and C.~Marliani.
+\newblock Adaptive mesh refinement for singular current sheets in
+  incompressible magnetohydrodynamic flows.
+\newblock {\em Journal of Computational Physics}, 134:190--198, 1997.
+
+\bibitem{Gerbeau00}
+J.~Gerbeau.
+\newblock A stabilized finite element method for the incompressible
+  magnetohydrodynamic equation.
+\newblock {\em Numerische Mathematik}, 87:83--111, 2000.
+
+\bibitem{GLP04}
+M.~Gunzburger, O.~Ladyzhenskaya, and J.~Peterson.
+\newblock On the global unique solvability of intial-boundary value problems
+  for the coupled modified {Navier-Stokes} and maxwell equations.
+\newblock {\em J. Math. Fluid Mech.}, 6:462--482, 2004.
+
+\bibitem{GT05}
+M.~Gunzburger and C.~Trenchea.
+\newblock Analysis and discretization of an optimal control problem for the
+  time-periodic mhd equations.
+\newblock {\em J. Math Anal. Appl.}, 308(2):440--466, 2005.
+
+\bibitem{GT07}
+M.~Gunzburger and C.~Trenchea.
+\newblock Analysis of optimal control problem for three-dimensional coupled
+  modified navier-stokes and maxwell equations.
+\newblock {\em J. Math Anal. Appl.}, 333:295--310, 2007.
+
+\bibitem{HR90}
+J.~Heywood and R.~Rannacher.
+\newblock Finite element approximation of the nonstationary {Navier-Stokes
+  problem. Part IV: Error }analysis for the second order time discretization.
+\newblock {\em SIAM J. Numer. Anal.}, 2:353--384, 1990.
+
+\bibitem{HRT96}
+J.~Heywood, R.~Rannacher, and S.~Turek.
+\newblock Artificial boundaries and flux and pressure conditions for the
+  incompressible navier-stokes equations.
+\newblock {\em International Journal for Numerical Methods in Fluids},
+  22:325--352, 1996.
+
+\bibitem{LLMNR09}
+A.~Labovsky, W.~Layton, C.~Manica, M.~Neda, and L.~Rebholz.
+\newblock The stabilized extrapolated trapezoidal finite element method for the
+  {Navier-Stokes} equations.
+\newblock {\em Comput. Methods Appl. Mech. Engrg.}, 198:958--974, 2009.
+
+\bibitem{Laytonbook}
+W.~Layton.
+\newblock {\em An introduction to the numerical analysis of viscous
+  incompressible flows}.
+\newblock SIAM, 2008.
+
+\bibitem{linke09}
+A.~Linke.
+\newblock Collision in a cross-shaped domain --- {A} steady 2d
+  {N}avier-{S}tokes example demonstrating the importance of mass conservation
+  in {C}{F}{D}.
+\newblock {\em Comp. Meth. Appl. Mech. Eng.}, 198(41--44):3278--3286, 2009.
+
+\bibitem{LW04}
+J.~Liu and W.~Wang.
+\newblock Energy and helicity preserving schemes for hydro and
+  magnetohydro-dynamics flows with symmetry.
+\newblock {\em J. Comput. Phys.}, 200:8--33, 2004.
+
+\bibitem{LP10}
+J.-G. Liu and R.~Pego.
+\newblock Stable discretization of magnetohydrodynamics in bounded domains.
+\newblock {\em Commun. Math. Sci.}, 8(1):234--251, 2010.
+
+\bibitem{Oskolkov_1973}
+A.~P. Oskolkov.
+\newblock The uniqueness and solvability in the large of boundary value
+  problems for the equations of motion of aqueous solutions of polymers.
+\newblock {\em Zap. Nau\v cn. Sem. Leningrad. Otdel. Mat. Inst. Steklov.
+  (LOMI)}, 38:98--136, 1973.
+\newblock Boundary value problems of mathematical physics and related questions
+  in the theory of functions, 7.
+
+\bibitem{qin:phd}
+J.~Qin.
+\newblock {\em On the convergence of some low order mixed finite elements for
+  incompressible fluids}.
+\newblock PhD thesis, Pennsylvania State University, 1994.
+
+\bibitem{TEM79}
+R.~Temam.
+\newblock {\em Navier-{Stokes} Equations, Theory and Numerical Analysis},
+  volume~2.
+\newblock North-Holland Publishing Company, 1979.
+
+\bibitem{W12}
+N.~Wilson.
+\newblock On the leray-deconvolution model for the incompressible
+  magnetohydrodynamics equations.
+\newblock {\em Submitted}, 2012.
+
+\bibitem{Z05}
+S.~Zhang.
+\newblock A new family of stable mixed finite elements for the 3d stokes
+  equations.
+\newblock {\em Mathematics of Computation}, 74:543--554, 2005.
+
+\bibitem{zhang08}
+S.~Zhang.
+\newblock On the {P}1 {P}owell-{S}abin divergence-free finite element for the
+  {S}tokes equations.
+\newblock {\em J. Comput. Math.}, 26(3):456--470, 2008.
+
+\bibitem{Z10a}
+S.~Zhang.
+\newblock Divergence-free finite elements on tetrahedral grids for $k\ge 6$.
+\newblock {\em Math. Comp.}, 80(274):669--695, 2011.
+
+\bibitem{Z10}
+S.~Zhang.
+\newblock {Quadratic divergence-free finite elements on Powell-Sabin
+  tetrahedral grids}.
+\newblock {\em Calcolo}, 48(3):211--244, 2011.
+
+\end{thebibliography}

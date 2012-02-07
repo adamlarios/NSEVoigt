@@ -1,0 +1,5 @@
+Notes on stack problem
+
+Coarse mesh: dof: 6826 + 4932 =11758(SV on barycenter), dt=0.01, alpha^2/dt=1
+
+Fine mesh: dof: 63742 + 46250 = 99,992 (SV on barycenter, dt=0.01

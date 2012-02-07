@@ -1,0 +1,419 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.11)  26 JAN 2012 00:08
+entering extended mode
+ %&-line parsing enabled.
+**NSEV.tex
+(./NSEV.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/cancel.sty
+Package: cancel 2000/03/12 v2.1 Cancel math terms
+)
+\c@conclusion=\count100
+\c@theorem=\count101
+\c@lem=\count102
+\c@lemma=\count103
+\c@prop=\count104
+\c@cor=\count105
+\c@defn=\count106
+\c@rem=\count107
+\c@remark=\count108
+\c@assump=\count109
+\c@algorithm=\count110
+ (./NSEV.aux
+
+LaTeX Warning: Label `eq:3.49' multiply defined.
+
+)
+\openout1 = `NSEV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+ (/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen116
+\scratchbox=\box28
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen117
+\MPnumerator=\count115
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 102.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 102.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 4205) in paragraph at lines 102--102
+[][]\OT1/cmr/m/n/9 Department of Math-e-mat-ics, Texas A& M Uni-ver-sity, Col-l
+ege Sta-tion, TX 77843, alar-
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (7.56398pt too wide) in paragraph at lines 176--178
+[]\OT1/cmr/m/n/10.95 The fi-nite el-e-ment spaces used through-out will be the 
+Scott-Vogelius (SV) pair, $(\OML/cmm/m/it/10.95 X[]; Q[]\OT1/cmr/m/n/10.95 ) =
+ []
+
+[2] [3]
+Overfull \hbox (41.14601pt too wide) in paragraph at lines 245--251
+[]\OT1/cmr/bx/n/10.95 Theorem 3.1. []\OT1/cmr/m/it/10.95 Sup-pose $\OT1/cmr/m/n
+/10.95 (\OML/cmm/m/it/10.95 u; p\OT1/cmr/m/n/10.95 )$ \OT1/cmr/m/it/10.95 is a 
+strong NSE so-lu-tion on $\OT1/cmr/m/n/10.95 
+ \OMS/cmsy/m/n/10.95 ^^B \OT1/cmr/m/n/10.95 [0\OML/cmm/m/it/10.95 ; T\OT1/cmr/m
+/n/10.95 ]$ \OT1/cmr/m/it/10.95 sat-is-fy-ing $\OML/cmm/m/it/10.95 u \OMS/cmsy/
+m/n/10.95 2 \OML/cmm/m/it/10.95 L[]\OT1/cmr/m/n/10.95 (0\OML/cmm/m/it/10.95 ; T
+\OT1/cmr/m/n/10.95 ; \OML/cmm/m/it/10.95 H[]\OT1/cmr/m/n/10.95 (
+))$\OT1/cmr/m/it/10.95 ,
+ []
+
+<diagram.pdf, id=28, 1049.08037pt x 278.5892pt>
+File: diagram.pdf Graphic file (type pdf)
+ <use diagram.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4] <stackmeshbary.pdf, id=34, 583.17876pt x 571.13374pt>
+File: stackmeshbary.pdf Graphic file (type pdf)
+
+<use stackmeshbary.pdf>
+<stackmeshbaryfine.pdf, id=36, 583.17876pt x 571.13374pt>
+File: stackmeshbaryfine.pdf Graphic file (type pdf)
+
+<use stackmeshbaryfine.pdf> [5 <./diagram.pdf> <./stackmeshbary.pdf> <./stackme
+shbaryfine.pdf>] <stackfine.pdf, id=70, 467.7475pt x 574.145pt>
+File: stackfine.pdf Graphic file (type pdf)
+
+<use stackfine.pdf> <stackcoarse0.pdf, id=72, 460.72125pt x 576.1525pt>
+File: stackcoarse0.pdf Graphic file (type pdf)
+
+<use stackcoarse0.pdf> <stackcoarse1.pdf, id=74, 463.7325pt x 576.1525pt>
+File: stackcoarse1.pdf Graphic file (type pdf)
+
+<use stackcoarse1.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./stackfine.pdf>] [7 <./stackcoarse0.pdf> <./stackcoarse1.pdf>] [8]
+Overfull \hbox (26.0324pt too wide) detected at line 414
+ []$[]   [][] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 s [][] \OT1/cmr/m/n/10.9
+5 + \OML/cmm/m/it/10.95 [] [] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 s[] []
+ \OT1/cmr/m/n/10.95 + ^^A\OML/cmm/m/it/10.95 t [] []$ 
+ []
+
+
+Overfull \hbox (0.24298pt too wide) in paragraph at lines 443--448
+\OML/cmm/m/it/10.95 B[]; u[] \OMS/cmsy/m/n/10.95 2 \OML/cmm/m/it/10.95 L[]\OT1/
+cmr/m/n/10.95 (0\OML/cmm/m/it/10.95 ; T\OT1/cmr/m/n/10.95 ; \OML/cmm/m/it/10.95
+ H[]\OT1/cmr/m/n/10.95 (
+))$\OT1/cmr/m/it/10.95 , $\OML/cmm/m/it/10.95 B[]; u[]; \OMS/cmsy/m/n/10.95 r\O
+ML/cmm/m/it/10.95 B[]; \OMS/cmsy/m/n/10.95 r\OML/cmm/m/it/10.95 u[] \OMS/cmsy/m
+/n/10.95 2 \OML/cmm/m/it/10.95 L[]\OT1/cmr/m/n/10.95 (0\OML/cmm/m/it/10.95 ; T;
+ L[]\OT1/cmr/m/n/10.95 (
+))$\OT1/cmr/m/it/10.95 , $\OML/cmm/m/it/10.95 B[]; u[] \OMS/cmsy/m/n/10.95 2 \O
+ML/cmm/m/it/10.95 L[]\OT1/cmr/m/n/10.95 (0\OML/cmm/m/it/10.95 ; T\OT1/cmr/m/n/1
+0.95 ; \OML/cmm/m/it/10.95 L[]\OT1/cmr/m/n/10.95 (
+))$\OT1/cmr/m/it/10.95 ,
+ []
+
+[9]
+Overfull \hbox (2.05211pt too wide) detected at line 475
+ []$[]  \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]\OT1/cmr/m/n/10.95 (\OML/cmm
+/m/it/10.95 t[]\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; v[]\OT1/cmr/m/n/10.95 
+) + (\OML/cmm/m/it/10.95 u\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t[]\OT1/cmr/m
+/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^A r\OML/cmm/m/it/10.95 u\OT1/cmr/m/n/10.95 (\O
+ML/cmm/m/it/10.95 t[]\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; v[]\OT1/cmr/m/n/
+10.95 ) + \OML/cmm/m/it/10.95 Re[]\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 r\OML
+/cmm/m/it/10.95 u\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t[]\OT1/cmr/m/n/10.95 
+)\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 r[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/
+n/10.95 ^^@ \OML/cmm/m/it/10.95 s\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 B\OT1/
+cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 
+^^A r\OML/cmm/m/it/10.95 B\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t[]\OT1/cmr/m
+/n/10.95 )\OML/cmm/m/it/10.95 ; v[]\OT1/cmr/m/n/10.95 )$ 
+ []
+
+
+Overfull \hbox (5.5866pt too wide) in paragraph at lines 512--512
+[] 
+ []
+
+[10]
+Overfull \hbox (13.8842pt too wide) in paragraph at lines 592--592
+[] 
+ []
+
+
+Overfull \hbox (8.263pt too wide) in paragraph at lines 614--614
+[] 
+ []
+
+[11]
+Overfull \hbox (4.5888pt too wide) in paragraph at lines 625--625
+[] 
+ []
+
+
+Overfull \hbox (44.79996pt too wide) in paragraph at lines 637--637
+[] 
+ []
+
+
+Overfull \hbox (24.90799pt too wide) detected at line 648
+ []$[]  [] [] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Re[] [][] \OMS/cmsy/m/n/
+10.95 ^^@ \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 B[] \OMS/cmsy/m/n/10.95 ^^A r
+[]\OML/cmm/m/it/10.95 ;  []\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^@ \OT1/cm
+r/m/n/10.95 (\OML/cmm/m/it/10.95  [] \OMS/cmsy/m/n/10.95 ^^A r\OML/cmm/m/it/10.
+95 u[];  []\OT1/cmr/m/n/10.95 )$ 
+ []
+
+[12]
+Overfull \hbox (3.08203pt too wide) detected at line 674
+ []$[] \OMS/cmsy/m/n/10.95 ^^T [] [][]\OT1/cmr/m/n/10.95 ([][] + \OML/cmm/m/it/
+10.95 [] [][] \OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 dt \OT1/cmr/m/n/10.95 + 
+[] [][] + [] [][] + [] [][]$ 
+ []
+
+
+Overfull \hbox (34.729pt too wide) detected at line 674
+ []$[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 C [] [] [] \OT1/cmr/m/n/10.95 +
+ [][] [] [] + \OML/cmm/m/it/10.95 Cs [] [] []$ 
+ []
+
+[13]
+Overfull \hbox (3.15823pt too wide) detected at line 741
+ []$[] \OMS/cmsy/m/n/10.95 ^^T [] [][] []  \OML/cmm/m/it/10.95 dt \OT1/cmr/m/n/
+10.95 + [] [][] []  \OML/cmm/m/it/10.95 dt$ 
+ []
+
+
+Overfull \hbox (17.40799pt too wide) detected at line 759
+ []$[]   [][] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 s [][] \OT1/cmr/m/n/10.9
+5 + [] [] + \OML/cmm/m/it/10.95 [] [][] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.
+95 s[] [][]$ 
+ []
+
+[14] <Domain.pdf, id=147, 614.295pt x 794.97pt>
+File: Domain.pdf Graphic file (type pdf)
+ <use Domain.pdf>
+<MHDChannel_DNSfine.pdf, id=149, 834.11626pt x 390.45876pt>
+File: MHDChannel_DNSfine.pdf Graphic file (type pdf)
+
+<use MHDChannel_DNSfine.pdf> [15]
+<MHDChannel_DNScoarse.pdf, id=154, 804.00375pt x 394.47375pt>
+File: MHDChannel_DNScoarse.pdf Graphic file (type pdf)
+
+<use MHDChannel_DNScoarse.pdf>
+<MHDChannel_VoigtCoarse.pdf, id=156, 828.09375pt x 422.57875pt>
+File: MHDChannel_VoigtCoarse.pdf Graphic file (type pdf)
+
+<use MHDChannel_VoigtCoarse.pdf> [16 <./Domain.pdf> <./MHDChannel_DNSfine.pdf>]
+<MHD_TO_DNS_fine.pdf, id=174, 565.11125pt x 415.5525pt>
+File: MHD_TO_DNS_fine.pdf Graphic file (type pdf)
+
+<use MHD_TO_DNS_fine.pdf>
+<MHD_TO_DNS_coarse.pdf, id=176, 565.11125pt x 415.5525pt>
+File: MHD_TO_DNS_coarse.pdf Graphic file (type pdf)
+
+<use MHD_TO_DNS_coarse.pdf>
+<MHD_TO_Voigt_coarse.pdf, id=178, 565.11125pt x 415.5525pt>
+File: MHD_TO_Voigt_coarse.pdf Graphic file (type pdf)
+
+<use MHD_TO_Voigt_coarse.pdf> (./NSEV.bbl [17 <./MHDChannel_DNScoarse.pdf> <./M
+HDChannel_VoigtCoarse.pdf>] [18 <./MHD_TO_DNS_fine.pdf>] [19 <./MHD_TO_DNS_coar
+se.pdf> <./MHD_TO_Voigt_coarse.pdf>]) [20] (./NSEV.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2269 strings out of 495061
+ 26641 string characters out of 1182621
+ 101930 words of memory out of 3000000
+ 5418 multiletter control sequences out of 15000+50000
+ 14196 words of font info for 54 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 32i,18n,24p,779b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/symbols/msbm10.pfb>
+Output written on NSEV.pdf (20 pages, 6440249 bytes).
+PDF statistics:
+ 354 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+
